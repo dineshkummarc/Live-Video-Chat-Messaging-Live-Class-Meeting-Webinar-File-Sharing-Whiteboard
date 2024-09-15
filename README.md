@@ -12,7 +12,6 @@ Demo            : https://connect.kodemint.in
 To read installation guidelines, please visit http://support.kodemint.in
 
 Version 1.9.0 Released on 28 February 2021
-
 * Publicly Accessible Meeting feature added
 * Publicly Accessible Meeting related configurations added
 * Whiteboard related configuration added
@@ -24,7 +23,6 @@ Version 1.9.0 Released on 28 February 2021
 * User Contact issue fixed
 
 Version 1.8.0 Released on 4 February 2021
-
 * Whiteboard feature added
 * Whiteboard Streaming feature added
 * Recording issue resolved for Live Meeting
@@ -33,7 +31,6 @@ Version 1.8.0 Released on 4 February 2021
 * Meeting Invitation timezone issue fixed
 
 Version 1.7.0 Released on 21 January 2021
-
 * Speech Detection Highlight feature added
 * Feature added to allow user to join meeting without camera / mic
 * Configurations added to hide/show Link Sharing Button
@@ -48,7 +45,6 @@ Version 1.7.0 Released on 21 January 2021
 * Custom CSS file added and integrated to be used
 
 Version 1.6.1 Released on 8 December 2020
-
 * All User Chat Room feature with auto syncing
 * Separate Chat Window feature
 * Chat members and search api improved
@@ -58,7 +54,6 @@ Version 1.6.1 Released on 8 December 2020
 * Meeting not ending bug fix
 
 Version 1.6.0 Released on 23 November 2020
-
 * Group Chat Feature
 * User's Private Contacts & Segments Feature
 * Configuration added to Mute Participants on Start
@@ -70,7 +65,6 @@ Version 1.6.0 Released on 23 November 2020
 * Sidebar UI Config - Unsplash API bug fix
 
 Version 1.5.0 Released on 29 October 2020
-
 * Custom Meeting Code and Keep Meeting Alive features added for Instant Meetings
 * Meeting auto timeout issue fixed
 * Clear command added to AnyKeyToSearch component
@@ -80,7 +74,6 @@ Version 1.5.0 Released on 29 October 2020
 * Installation wizard and Server prerequisites check updated
 
 Version 1.4.0 Released on 14 October 2020
-
 * Input Device Selection on runtime improved on Live Meeting page
 * VAPID keys configuration added
 * Web Push notification feature integrated
@@ -91,7 +84,6 @@ Version 1.4.0 Released on 14 October 2020
 * Add to Home Screen Alert added with configuration
 
 Version 1.3.0 Released on 29 September 2020
-
 * WebRTC File Sharing Component added
 * Insert Emoji on Chat added
 * Live Meeting page refactored
@@ -109,7 +101,6 @@ Version 1.3.0 Released on 29 September 2020
 * User preference related fixes
 
 Version 1.2.0 Released on 22 September 2020
-
 * Chat Configuration added on Chat Component
 * Click to chat button on User Profile added
 * Mute Sound Notification option for Chat Added
@@ -133,7 +124,6 @@ Version 1.2.0 Released on 22 September 2020
 * Datatable API calling issue fixed
 
 Version 1.1.3 Released on 4 September 2020
-
 * Meetings related configurations added
 * Meetings - Block & Unblock invitee options added
 * Meetings - Block User from Live Meeting option added
@@ -145,7 +135,6 @@ Version 1.1.3 Released on 4 September 2020
 * User preference updated
 
 Version 1.1.2 Released on 22 August 2020
-
 * Meetings empty user column fixed
 * Meeting snooze notification fixed
 * Back navigation issue fixed on Instant Meeting
@@ -159,7 +148,6 @@ Version 1.1.2 Released on 22 August 2020
 * Change password issue fixed
 
 Version 1.1.1 Released on 16 August 2020
-
 * Locale loading issue fixed
 * Role assign issue fixed
 * Register page mobile responsiveness fixed
@@ -170,7 +158,6 @@ Version 1.1.1 Released on 16 August 2020
 * Theme related issue fixed
 
 Version 1.1.0 Released on 8 August 2020
-
 * Live Chat Feature
 * Instant Meeting (Start and Join a Meeting)
 * Meeting Shareable Link Generation and Sharing
@@ -186,5 +173,4 @@ Version 1.1.0 Released on 8 August 2020
 * Ban, Activate, Approve Users
 
 Version 1.0.0 Released on 13 July 2020
-
 * Initial Release
